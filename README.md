@@ -10,4 +10,4 @@ This project aims to investigate the real world phenomenon of
 ## The Problem
 The success of Padraig Harrington's professional golf career has been driven by the scores he shoots in tournaments around the world. This notebook will aim to analyse round by round scores for Harrington's entire professional career to predict his finishing positions in tournaments. The data comes from tour-tips.com.
 
-The Prog_for_DA.ipynb file in this folder is where the analysis is done. The file is a python jupyter notebook, which is an interactive python file. If there are any issues with the file you should start from the top and run the code cell by cell.
+The Prog_for_DA_proj.ipynb file in this folder is where the analysis is done. The file is a python jupyter notebook, which is an interactive python file. If there are any issues with the file you should start from the top and run the code cell by cell.
